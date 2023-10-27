@@ -1,0 +1,2 @@
+2023-10-27T03:54:11+00:00	docker.6bf0eefe9607	{"source":"stdout","log":"Hello","container_id":"6bf0eefe9607a305ca5924f833ad12f30d79f0df3cb711633280a838d5e55023","container_name":"/focused_banach"}
+2023-10-27T03:54:17+00:00	docker.8b70c4ac015b	{"container_id":"8b70c4ac015bf467b44e94ea5c0348886725dc3bc727d57db09bad68a2584711","container_name":"/agitated_lehmann","source":"stdout","log":"Hello"}
