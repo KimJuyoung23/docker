@@ -1,0 +1,2 @@
+docker run -u $(id -u):$(id -u) --name jupyter -itd --log-driver=fluentd --log-opt tag="docker.{{.ID}}" --log-opt fluentd-address=172.17.0.2:24224 -p 8888:8888 tensorflow/tensorflow:nightly-jupyter
+docker logs jupyter |grep token
